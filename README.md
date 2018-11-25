@@ -2,4 +2,4 @@
 
 ![>:(](icons/icon_big.png)
 
-Hides sponsored job listings on Indeed.
+Browser exension that hides sponsored job listings on [Indeed](https://www.indeed.com).
