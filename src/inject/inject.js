@@ -18,4 +18,4 @@ function hideSponsored(){
 
 
 
-document.addEventListener("DOMContentLoaded", hideSponsored);
+document.addEventListener("DOMContentLoaded", hideSponsored());
